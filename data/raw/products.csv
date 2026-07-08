@@ -1,0 +1,11 @@
+product_id,product,category,unit_list_price,unit_cost
+P001,Keyboard,Accessories,89.99,46.0
+P002,Mouse,Accessories,39.99,15.0
+P003,Docking Station,Accessories,189.99,106.0
+P004,Headphones,Audio,149.99,76.0
+P005,Laptop,Computers,1499.99,1000.0
+P006,Tablet,Computers,699.99,425.0
+P007,Monitor,Displays,399.99,230.0
+P008,Webcam,Accessories,79.99,36.0
+P009,Printer,Displays,329.99,190.0
+P010,Wireless Charger,Accessories,49.99,21.0
