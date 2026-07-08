@@ -44,17 +44,20 @@ Also evaluate whether targeted promotion or bundling for Accessories and Audio c
 ## Project Files
 
 ```text
+mini_project.py
+Main Python workflow used to load raw CSV files into SQLite, run SQL analysis queries, and export processed CSV files.
+
+data/raw/
+Original CSV files used for the project.
+
+data/processed/
+CSV outputs created from the SQL analysis and used in Power BI.
+
+sql/
+Standalone SQL versions of the analysis queries used in the Python workflow.
+
 dashboard/
 Power BI dashboard file.
 
 images/
 Dashboard screenshot.
-
-data/
-CSV exports used in Power BI.
-
-sql/
-SQL queries used to create the analysis tables.
-
-scripts/
-Python script used to export SQL query results to CSV.
