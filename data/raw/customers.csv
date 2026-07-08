@@ -1,0 +1,37 @@
+customer_id,customer_name,segment,region,signup_date
+C001,Avery Martin,Consumer,South Florida,2024-07-24
+C002,Jordan Lee,Small Business,Southwest,2024-02-19
+C003,Taylor Patel,Enterprise,Midwest,2024-08-27
+C004,Morgan Garcia,Education,Central Florida,2023-10-20
+C005,Casey Smith,Consumer,Southeast,2024-12-04
+C006,Riley Johnson,Small Business,Northeast,2025-02-14
+C007,Cameron Rivera,Enterprise,North Florida,2024-10-10
+C008,Parker Brown,Education,South Florida,2023-09-07
+C009,Quinn Nguyen,Consumer,Southwest,2025-01-06
+C010,Drew Davis,Small Business,Midwest,2023-08-04
+C011,Alex Wilson,Enterprise,Central Florida,2023-09-23
+C012,Reese Moore,Education,Southeast,2024-08-02
+C013,Skyler Young,Consumer,Northeast,2023-06-18
+C014,Rowan King,Small Business,North Florida,2023-04-01
+C015,Hayden Lopez,Enterprise,South Florida,2023-03-06
+C016,Emerson Allen,Education,Southwest,2023-01-19
+C017,Logan Wright,Consumer,Midwest,2023-01-22
+C018,Harper Scott,Small Business,Central Florida,2023-12-06
+C019,Blake Hall,Enterprise,Southeast,2023-05-01
+C020,Dakota Green,Education,Northeast,2023-10-22
+C021,Finley Baker,Consumer,North Florida,2024-02-23
+C022,Sage Adams,Small Business,South Florida,2024-01-10
+C023,Kendall Nelson,Enterprise,Southwest,2023-02-19
+C024,Payton Carter,Education,Midwest,2025-02-10
+C025,Milan Mitchell,Consumer,Central Florida,2024-04-20
+C026,Noel Perez,Small Business,Southeast,2023-01-11
+C027,Ari Roberts,Enterprise,Northeast,2024-12-21
+C028,Jules Turner,Education,North Florida,2023-07-17
+C029,Remy Phillips,Consumer,South Florida,2023-12-20
+C030,Toby Campbell,Small Business,Southwest,2023-07-03
+C031,Micah Evans,Enterprise,Midwest,2023-08-15
+C032,Ellis Edwards,Education,Central Florida,2024-10-25
+C033,Robin Collins,Consumer,Southeast,2023-11-29
+C034,Shawn Stewart,Small Business,Northeast,2024-10-25
+C035,Bailey Morris,Enterprise,North Florida,2024-12-16
+C036,Dylan Rogers,Education,South Florida,2024-11-08
