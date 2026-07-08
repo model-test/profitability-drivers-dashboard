@@ -1,0 +1,5 @@
+segment,segment_revenue,revenue_contribution_pct,segment_profit,profit_contribution_pct,profit_margin_pct,overall_profit_margin_pct,profit_margin_difference
+Enterprise,52692.51,36.37,19104.51,36.51,36.26,36.12,0.14
+Small Business,40957.95,28.27,14072.95,26.89,34.36,36.12,-1.76
+Education,27576.32,19.04,10371.32,19.82,37.61,36.12,1.49
+Consumer,23641.15,16.32,8783.15,16.78,37.15,36.12,1.03
